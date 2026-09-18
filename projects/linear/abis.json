@@ -1,0 +1,5 @@
+{
+  "totalLockedAmount": "uint256:totalLockedAmount",
+  "totalStakeAmount": "uint256:totalStakeAmount",
+  "totalSubscribedAmount": "uint256:totalSubscribedAmount"
+}
